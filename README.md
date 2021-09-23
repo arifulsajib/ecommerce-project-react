@@ -5,7 +5,7 @@
 
 ### Links
 
-- Live Site: [Tips Calculator](https://github.com/arifulsajib/ecommerce-project-react)
+- Live Site: [Ecommerce-react](https://github.com/arifulsajib/ecommerce-project-react)
 - Code: [Github](https://github.com/arifulsajib/ecommerce-project-react)
 
 ### Built with
